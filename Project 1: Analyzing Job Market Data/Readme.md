@@ -1,5 +1,8 @@
 # Project Title: Analyzing Job Market Data for DataSearch
 
+![Job_Posting_Dashboard](https://github.com/user-attachments/assets/45362958-0272-4df8-9fab-6e624d2a6009)
+
+
 ## 📝 Project Description:
 
 This Power BI project is a case study focused on analyzing a real-world job posting dataset to support the strategic goals of a fictional recruitment company called DataSearch. The goal of this analysis is to uncover actionable insights related to job market trends, particularly focusing on Data Scientist, Data Analyst, and Data Engineer roles. 
