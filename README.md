@@ -12,3 +12,7 @@ Power BI provides a user-friendly interface with drag-and-drop features and supp
 
 # Dashboard Projects
 This repository contains the following dashboard project:
+- [Project 1: Analyzing Job Market Data for DataSearch](https://github.com/Busted546/Power_BI_Dashboards/tree/main/Project%201%3A%20Analyzing%20Job%20Market%20Data) - A dashboard that displays job market data, including top in-demand skills, popular job roles, hiring trends, and company-wise job postings for data professionals.
+- [Project 2: Analyzing Healthcare Data in Power BI](https://github.com/Busted546/Power_BI_Dashboards/tree/main/Project%202%3A%20Analyzing%20Healthcare%20Data%20in%20Power%20BI) - A dashboard that displays hospital efficiency data, including patient length of stay, discharge costs, and hospital performance benchmarks.
+
+Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
