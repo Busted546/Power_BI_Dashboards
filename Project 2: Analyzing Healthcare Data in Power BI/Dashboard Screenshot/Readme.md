@@ -10,7 +10,8 @@
 
 ## Cost Comparison
 
-![Screenshot 2025-04-23 014417](https://github.com/user-attachments/assets/bcc5aab4-8e7a-48c5-8da1-0e80dc071ed3)
+![Screenshot 2025-04-23 014427](https://github.com/user-attachments/assets/9cc6f845-40ae-4084-9cd0-36de5ceb2f99)
+
 
 ## Hospital Profile
 
